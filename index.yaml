@@ -3,12 +3,12 @@ entries:
   demo-server:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-14T13:27:53.136682446+09:00"
+    created: "2023-03-14T13:37:32.980067534+09:00"
     description: A Helm chart for Kubernetes
     digest: 4e54458bece738dc3aeaccb5f977b0be60f72b0b2cc782a45ee322853068bd55
     name: demo-server
     type: application
     urls:
-    - https://baek-jihyeon.github.io/demo-server-0.1.0.tgz
+    - demo-server-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-14T13:27:53.135767325+09:00"
+generated: "2023-03-14T13:37:32.973785665+09:00"

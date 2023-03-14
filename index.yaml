@@ -1,23 +1,14 @@
 apiVersion: v1
 entries:
-  test-tcp-client:
+  demo-server:
   - apiVersion: v2
-    created: "2023-03-13T14:21:01.748721327+09:00"
+    appVersion: 1.16.0
+    created: "2023-03-14T10:19:38.82903159+09:00"
     description: A Helm chart for Kubernetes
-    digest: 30feacef112faab04d5287e50e6b56637709f1a9ecb97c1d27aa3338ae76c607
-    name: test-tcp-client
+    digest: 4e54458bece738dc3aeaccb5f977b0be60f72b0b2cc782a45ee322853068bd55
+    name: demo-server
     type: application
     urls:
-    - test-tcp-client-0.1.0.tgz
+    - https://github.com/baek-jihyeon/baek-jihyeon.github.io.git/demo-server-0.1.0.tgz
     version: 0.1.0
-  test-tcp-server:
-  - apiVersion: v2
-    created: "2023-03-13T14:21:01.749318144+09:00"
-    description: A Helm chart for Kubernetes
-    digest: 2f2bb9d338f3a6ee8d2cba586c5a500f6c0d7cdbd3be5d652dc7450c40e4a4f5
-    name: test-tcp-server
-    type: application
-    urls:
-    - test-tcp-server-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-03-13T14:21:01.742510629+09:00"
+generated: "2023-03-14T10:19:38.828327294+09:00"
